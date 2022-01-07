@@ -26,7 +26,7 @@ You need a FF3us 1.0 ROM. As an example `Final Fantasy III (USA) 1.0.sfc` in the
 
 `no_gradient.asm` use no free space. For `menu_gradient.asm`, the free space used is from `$C3F091` to `$C3F13C` and from `$EFFBC8` to `$EFFDF2`. The `$C0F091` code can be relocated elsewhere in same bank and the `$EFFBC8` code can be relocated elsewhere in the ROM if needed. You just need to change the relevant `org` instruction(s) in the asm file.
 
-# Version history
+## Version history
 
 - 1.0 Initial Release 05/23/2017
 
