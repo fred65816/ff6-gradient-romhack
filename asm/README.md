@@ -1,0 +1,1 @@
+`no_gradient.asm` can be assembled with [bass v14](https://www.romhacking.net/utilities/794/) and `menu_gradient.asm` can be assembled with [xkas 0.06](https://www.romhacking.net/utilities/269/).
